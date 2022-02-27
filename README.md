@@ -28,8 +28,6 @@ I'm a Full-Stack Web Developer 💻, Bibliophile 📚 , and movie buff 🎥!
 
 <!--<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/thecodeblood/thecodeblood/main/images/linkedin.svg" alt=" Abhijeet Yadav | LinkedIn" width="21px"/></a>
 -->
-<!--<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/thecodeblood/thecodeblood/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/thecodeblood/thecodeblood/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 -->
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
