@@ -83,6 +83,7 @@ I'm a Full-Stack Web Developer 💻, Bibliophile 📚 , and movie buff 🎥!
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thecodeblood)](https://github.com/thecodeblood)-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeblood)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeblood&layout=compact)](https://github.com/thecodeblood)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeblood&layout=compact)](https://github.com/thecodeblood)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeblood)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=thecodeblood.thecodeblood)](https://www.abhi.dev/)-->
