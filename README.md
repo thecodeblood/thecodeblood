@@ -26,7 +26,7 @@ I'm a Full-Stack Web Developer 💻, Bibliophile 📚 , and movie buff 🎥!
 
 ### 🤝 Connect with me:
 
-<!--<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/thecodeblood/thecodeblood/main/images/linkedin.svg" alt=" Abhijeet Yadav | LinkedIn" width="21px"/></a>
+<!--<a href="https://www.linkedin.com/in//"><img align="left" src="https://raw.githubusercontent.com/thecodeblood/thecodeblood/main/images/linkedin.svg" alt=" Abhijeet Yadav | LinkedIn" width="21px"/></a>
 -->
 </br>
 -->
