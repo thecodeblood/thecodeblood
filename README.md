@@ -80,7 +80,8 @@ I'm a Full-Stack Web Developer 💻, Bibliophile 📚 , and movie buff 🎥!
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thecodeblood)](https://github.com/thecodeblood)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thecodeblood)](https://github.com/thecodeblood)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeblood)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeblood&layout=compact)](https://github.com/thecodeblood)
 
