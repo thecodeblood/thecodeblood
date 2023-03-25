@@ -1,6 +1,6 @@
 <!--
 **thecodeblood/thecodeblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/99346725/155743570-70e65c0c-1b6b-459f-a992-ba08eb724c84.png" alt="my banner">
