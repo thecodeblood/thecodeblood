@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Yadav</h1>
 <h3 align="center">I'm a Full-Stack Web Developer 💻, Bibliophile 📚 , and movie buff 🎥!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodeblood" alt="thecodeblood" /></a> </p>
+Hi 👋, I'm Abhijeet Yadav<br>I'm a Full-Stack Web Developer 💻, Bibliophile 📚 , and movie buff 🎥!<br>🔭 I’m currently working on FullStack Development, Machine Learning<br><br><br>🌱 I’m currently learning ReactJs, Backend Development, Machine Learning, etc<br><br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br><br>🤝 I’m looking for help with CometIQ<br><br><br>👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)<br><br><br>📝 I regularly write articles on [Coming Soon](Coming Soon)<br><br><br>💬 Ask me about C++, Machine Learning, Data Science etc.<br><br>📫 How to reach me abhijeetyadav.masscoder@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin/thecodeblood)
